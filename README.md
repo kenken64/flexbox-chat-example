@@ -2,7 +2,7 @@
 
 <img src="./demo.gif">
 
-(Flexbox Tutorial)[https://flexboxfroggy.com/]
+[Flexbox Froggy Tutorial](https://flexboxfroggy.com/)
 
 ```html
 <html lang="en">
